@@ -1,0 +1,23 @@
+C:\Users\jan11\source\repos\Config SQL Server For Apps\bin\Debug\Config SQL Server For Apps.exe.config
+C:\Users\jan11\source\repos\Config SQL Server For Apps\bin\Debug\Config SQL Server For Apps.exe
+C:\Users\jan11\source\repos\Config SQL Server For Apps\bin\Debug\Config SQL Server For Apps.pdb
+C:\Users\jan11\source\repos\Config SQL Server For Apps\bin\Debug\MaterialDesignColors.dll
+C:\Users\jan11\source\repos\Config SQL Server For Apps\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jan11\source\repos\Config SQL Server For Apps\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jan11\source\repos\Config SQL Server For Apps\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jan11\source\repos\Config SQL Server For Apps\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\Config SQL Server For Apps.csprojAssemblyReference.cache
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\MainWindow.g.cs
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\App.g.cs
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\Config SQL Server For Apps_MarkupCompile.cache
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\Config SQL Server For Apps_MarkupCompile.lref
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\MainWindow.baml
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\Config SQL Server For Apps.g.resources
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\Config_SQL_Server_For_Apps.Properties.Resources.resources
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\Config SQL Server For Apps.csproj.GenerateResource.cache
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\Config SQL Server For Apps.csproj.CopyComplete
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\Config SQL Server For Apps.exe
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\Config SQL Server For Apps.pdb
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\App.baml
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\Window1.g.cs
+C:\Users\jan11\source\repos\Config SQL Server For Apps\obj\Debug\Window1.baml
